@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+https://user-images.githubusercontent.com/72228680/129495195-1d0cb289-2d63-4639-9398-1290e23ced3e.mp4
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<br />
+<div align="center">
+  <a href="https://github.com/suryaaa-g/Face-Recognition-App">
+   
+  </a>
 
-### `npm test`
+  <h3 align="center">Exercise Tracker App</h3>
+  <div align="center">
+    
+  
+  </div>
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-### `npm run build`
+A Web Application that is able to Detect Faces in images and track the number of images you have submitted. Stores new users and old user information by communicating with a Postgres Database. Users will be able to sign in and out and upload as many images as you can. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Details:
+* Developed based on [Andrei's 0 to Mastery Web Developer Course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.US&utm_content=deal4584&utm_term=_._ag_81829991707_._ad_536894452237_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_9004032_._pd__._&matchtype=b&gclid=EAIaIQobChMIpILqy9Sz8gIVSeTICh26RQ8DEAAYASAAEgKlcfD_BwE) tutorial
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Built With
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* [Tachyons](https://tachyons.io/)
+* [Express](https://expressjs.com/)
+* [React]https://reactjs.org/)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<!-- CONTACT -->
+## Contact
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Your Name - [Suryateja Gandhesiri](https://twitter.com/suryateja_g24) - suryateja2002@gmail.com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Project Link: [https://github.com/suryaaa-g/MERN-exerciseTracker](https://github.com/suryaaa-g/MERN-exerciseTracker)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
