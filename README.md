@@ -31,7 +31,7 @@ Details:
 
 * [Tachyons](https://tachyons.io/)
 * [Express](https://expressjs.com/)
-* [React]https://reactjs.org/)
+* [React](https://reactjs.org/)
 
 
 <!-- CONTACT -->
@@ -39,7 +39,7 @@ Details:
 
 Your Name - [Suryateja Gandhesiri](https://twitter.com/suryateja_g24) - suryateja2002@gmail.com
 
-Project Link: [https://github.com/suryaaa-g/MERN-exerciseTracker](https://github.com/suryaaa-g/MERN-exerciseTracker)
+Project Link: [https://github.com/suryaaa-g/MERN-exerciseTracker](https://github.com/suryaaa-g/Face-RecognitionApp)
 
 
 
