@@ -39,7 +39,8 @@ Details:
 
 Your Name - [Suryateja Gandhesiri](https://twitter.com/suryateja_g24) - suryateja2002@gmail.com
 
-Project Link: [https://github.com/suryaaa-g/MERN-exerciseTracker](https://github.com/suryaaa-g/Face-RecognitionApp)
+Project Link: [https://github.com/suryaaa-g/
+Face-RecognitionApp](https://github.com/suryaaa-g/Face-RecognitionApp)
 
 
 
